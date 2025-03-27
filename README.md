@@ -1,0 +1,2 @@
+# BMA456_ESP32C6
+Interfacing BMA456 with an ESP32C6 for ESP-IDF
